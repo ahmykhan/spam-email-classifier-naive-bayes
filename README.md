@@ -1,4 +1,5 @@
-# spam-email-classifier-naive-bayes# Email Spam Classification using Gaussian Naive Bayes
+# spam-email-classifier-naive-bayes#
+Email Spam Classification using Gaussian Naive Bayes
 
 An end-to-end Machine Learning pipeline implemented in Python to detect and classify emails as either **Spam** or **Non-Spam (Ham)**. This project utilizes the widely recognized **UCI Spambase Dataset** to train a predictive Gaussian Naive Bayes classifier, leveraging statistical continuous feature patterns to identify unsolicited communications.
 
